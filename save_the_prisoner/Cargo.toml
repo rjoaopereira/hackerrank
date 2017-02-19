@@ -1,0 +1,6 @@
+[package]
+name = "save_the_prisoner"
+version = "0.1.0"
+authors = ["Ricardo Pereira <ricardo.pereira@blip.pt>"]
+
+[dependencies]

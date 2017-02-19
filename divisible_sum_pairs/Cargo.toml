@@ -1,0 +1,6 @@
+[package]
+name = "divisible_sum_pairs"
+version = "0.1.0"
+authors = ["Ricardo Pereira <ricardo.pereira@blip.pt>"]
+
+[dependencies]

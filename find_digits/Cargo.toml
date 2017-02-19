@@ -1,0 +1,6 @@
+[package]
+name = "find_digits"
+version = "0.1.0"
+authors = ["Ricardo Pereira <ricardo.pereira@blip.pt>"]
+
+[dependencies]

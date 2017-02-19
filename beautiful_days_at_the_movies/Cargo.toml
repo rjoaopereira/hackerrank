@@ -1,0 +1,6 @@
+[package]
+name = "beautiful_days_at_the_movies"
+version = "0.1.0"
+authors = ["Ricardo Pereira <ricardo.pereira@blip.pt>"]
+
+[dependencies]

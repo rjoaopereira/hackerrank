@@ -1,0 +1,6 @@
+[package]
+name = "designer_pdf_viewer"
+version = "0.1.0"
+authors = ["Ricardo Pereira <ricardo.pereira@blip.pt>"]
+
+[dependencies]
